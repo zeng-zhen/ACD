@@ -5,5 +5,4 @@ Boosting Neural Cognitive Diagnosis with Student’s Affective State Modeling(AA
 python=3.6  
 pytorch=1.9  
 
-##code
-Coming soon.
+Since our approach is a plug-and-play module, we implemented this code based on [NCD](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Fei-Wang-AAAI2020.pdf)
