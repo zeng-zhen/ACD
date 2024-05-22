@@ -1,5 +1,5 @@
 # ACD
-Boosting Neural Cognitive Diagnosis with Student’s Affective State Modeling(AAAI24)
+[Boosting Neural Cognitive Diagnosis with Student’s Affective State Modeling(AAAI24)](https://doi.org/10.1609/aaai.v38i1.27818)
 
 ## Environment Settings
 python=3.6  
